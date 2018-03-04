@@ -15,7 +15,7 @@ collection: portfolio
 <a href="https://www.ice.mpg.de/ext/index.php?id=hopa&pers=suku4729">Max Planck Institute for Chemical Ecology</a>, University of Jena, Germany
 * Doctor of Philosophy (PhD), Molecular Biology, Excellent (summa cum laude), 2010 - 2016
 
-<a href="https://http://www.unipune.ac.in">University of Pune</a>, Pune
+<a href="https://www.unipune.ac.in">University of Pune </a>, Pune
 * Master of Science (M.Sc.), Biotechnology, 6.54/10, 2004 - 2009
 
 #### M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
@@ -77,7 +77,7 @@ collection: portfolio
   * Abstract:
   * Chitin is the second number of abundant polysaccharide in the world. To utilize this abundant source of macromolecules it need to be degraded in to its monomer. For the degradation of chitin chitinase from bacillus will be a good candidate to utilize. In this project I have screened the chitinase producing bacilli and use it for production of chitin in flask level and visualize the degradation of chitin in to its monomer using thin layer chromatography and enzyme assay.
 
-[Detailed resume in PDF format.](/files/Suyog-Kuwar-Resume -2016-June-13  .pdf)
+[Detailed resume in PDF format.](https://github.com/sskuwar/sskuwar.github.io/tree/master/files)
 
 
 
