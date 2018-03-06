@@ -10,6 +10,11 @@ var addressPoints = [
     11.5879359
   ],
   [
+    " Annotation of silkworm genome-workshop/symposium. |    National Institute of Agrobiological Sciences., Tsukuba, JAPAN",
+    36.0833877,
+    140.0765098
+  ],
+  [
     "Annotation of serine protease superfamily and transcriptional response to a plant protease inhibitor in *Helicoverpa armigera*. |  6th Annual Arthropod Genomic Symposium, Kansas City, UNITED STATES",
     39.0844687,
     -94.5630298
@@ -43,5 +48,10 @@ var addressPoints = [
     " Kinetic modeling of thermal inactivation of soluble and immobilized aminoacylase on novel acrylic beaded polymers. |    Industry-Institute of Bio-informatics and biotechnology meeting., Pune, INDIA",
     18.5203062,
     73.8543185
+  ],
+  [
+    "CPIB Summer School 2010, Mathematical modeling for biologists. |  Sutton Bonington Campus , Nottingham, UNITED KINGDOM",
+    52.9534161,
+    -1.1492773
   ]
 ];

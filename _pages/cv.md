@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
+<a style="line-height: 1.5;" href="https://sskuwar.github.io/files/Suyog-Kuwar-Resume-2016-June-13.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
+<h1 class="western" align="center"><b>Suyog S. Kuwar</b></h1>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">suyogkuwar at  gmail.com | <a href="https://sskuwar.github.io/">https://sskuwar.github.io</a> | <a href="http://www.twitter.com/suyogkuwar">@suyogkuwar</a> | <a href="https://scholar.google.com/citations?user=-1O8_u8AAAAJ&hl=en">Google Scholar</a></span></p>
+
 
 ## EDUCATION:
 
@@ -19,7 +26,7 @@ redirect_from:
 
 ### Indian Institute of Science Education and Research, Pune
   * **Date:** 04/2009 - 12/2009
-  * **M. Tech. thesis:** Biology discipline (left in the middle to persue PhD)
+  * **M. Tech. thesis:** Biology discipline (left in the middle to pursue PhD)
   * **Advisor:** Prof. Anjan Banerji
 
 ### Institute of Bioinformatics and Biotechnology, University of Pune, Pune
