@@ -3,14 +3,16 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 260 260" style="enable-background:new 0 0 260 260;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
+	.st0{fill:#01A0C6;stroke:#01A0C6;stroke-miterlimit:10;}
 	.st1{clip-path:url(#SVGID_2_);}
 	.st2{clip-path:url(#SVGID_4_);fill:#FFFFFF;}
 	.st3{clip-path:url(#SVGID_6_);}
 	.st4{clip-path:url(#SVGID_8_);fill:#FFFFFF;}
-	.st5{fill:#01A0C6;}
-	.st6{font-family:'MyriadPro-Bold';}
-	.st7{font-size:168px;}
+	.st5{fill:none;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'MyriadPro-Bold';}
+	.st8{font-size:168px;}
+	.st9{fill:none;stroke:#FFFFFF;stroke-width:19;stroke-miterlimit:10;}
 </style>
 <rect class="st0" width="260" height="260"/>
 <g>
@@ -65,7 +67,7 @@
 		<rect x="-558.8" y="-734.2" class="st4" width="95.1" height="62.4"/>
 	</g>
 </g>
-<rect x="18.2" y="67" class="st0" width="213.5" height="126"/>
-<text transform="matrix(1 0 0 1 28.0645 186.2783)" class="st5 st6 st7">SK</text>
-<circle class="st0" cx="130" cy="130" r="117.9"/>
+<rect x="18.2" y="67" class="st5" width="213.5" height="126"/>
+<text transform="matrix(1 0 0 1 28.0645 186.2783)" class="st6 st7 st8">SK</text>
+<circle class="st9" cx="130" cy="130" r="117.9"/>
 </svg>
