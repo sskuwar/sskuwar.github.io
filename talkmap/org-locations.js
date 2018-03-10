@@ -40,6 +40,11 @@ var addressPoints = [
     113.2592945
   ],
   [
+    "GOLDEN JUBILEE CONFERENCE OF THE SOCIETY FOR INVERTEBRATE PATHOLOGY. | University of California, San Diego., San Diego, UNITED STATES OF AMERICA",
+    32.7174209,
+    -117.1627714
+  ],
+  [
     " Adaptive evolution and regulation of digestive serine protease superfamily in *Helicoverpa armigera*. |   Institute of Chemical Ecology Symposium, Jena, GERMANY",
     50.9281717,
     11.5879359
