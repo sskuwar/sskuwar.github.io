@@ -99,7 +99,7 @@ Microbiology, Animal and Plant cell culture technique, fermentation technique, B
 * Article reviewer for PLOS ONE
 
 
-[Detailed resume in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-Resume-2016-June-13.pdf)
+[Detailed Curriculum Vitae in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-Resume-2018-October-13.pdf)
 
 ### Contact me
 
