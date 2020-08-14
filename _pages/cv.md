@@ -38,9 +38,17 @@ redirect_from:
 * ISCE Student Poster Award: for outstanding contribution as a poster in International Chemical Ecology Conference 2013, International Society of Chemical Ecology, Asia-Pacific Association of Chemical Ecologists, Melbourne, Australia, Aug 2013
 * International Max Planck Research School Fellowship for PhD studies, Max Planck Institute for Chemical Ecology, Jena, Germany. January 2010
 * GATE 2009 Qualified with 84.45 percentile
+* Maharashtra State Eligibility Test (MH-SET) for Assistant Professor Qualified (2019, First Attempt)(Total percentage of passing : 6.78 %, Total candidates appeared : 79,879)
 
 ## EXPERIENCE
-### February 2017 – Present ###
+
+### August 2019 – April 2020  ###
+* Assistant professor in Department of Zoology at L.V. H. Arts, Science and Commerce College, Panchavati, Nashik, Maharashtra, India.
+
+### January 2019 – December 2020 (No cost Extension) ###
+* Post Doctoral Research Associate at University of Florida, Gainesville, FL, USA.
+
+### February 2017 – December 2018 ###
 * Post Doctoral Research Associate at University of Florida, Gainesville, FL, USA.
 
 ### October 2016 – January 2016 ###
