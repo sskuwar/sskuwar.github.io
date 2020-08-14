@@ -3,7 +3,7 @@ title: "About me"
 excerpt: ""
 collection: portfolio
 ---
-<p class="introduction">I work full time as a Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
+<p class="introduction">Hi, I’m Suyog assistant professor at LVH college Panchavati, Nashik. I have demonstrated history of working in the higher education industry.I am currently working on control of western corn root-worm by engineering Bt toxins. I employ various molecular biological techniques like phage display, cloning, protein expression using insect cell lines, protein purification, protein modeling and modification. I have experience in the field of insect physiology, plant insect interactions, Bioinformatics, genomics, transcriptomics and proteomics. I hold a PhD in Molecular Biology from the Max Planck Institute for Chemical Ecology, Jena, Germany and an MS in Biotechnology from the Institute of Bioinformatics and Biotechnology at the University of Pune in Pune, India. You can learn more about my past research by reading my publications.
 
 ### Philosophy
 
@@ -15,24 +15,52 @@ collection: portfolio
 <a href="https://www.ice.mpg.de/ext/index.php?id=hopa&pers=suku4729">Max Planck Institute for Chemical Ecology</a>, University of Jena, Germany
 * Doctor of Philosophy (PhD), Molecular Biology, Excellent (summa cum laude), 2010 - 2016
 
-<a href="https://www.unipune.ac.in">University of Pune </a>, Pune
+<a href="https://www.unipune.ac.in">University of Pune</a>, Pune, India    
 * Master of Science (M.Sc.), Biotechnology, 6.54/10, 2004 - 2009
 
-#### M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
+M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
 * Higher Secondary School, PCBM, 76 %, 2000 - 2002
 
 ### Experience
 
-**February 2017 – Present**
+**August 2019 – April 2020**
+* Assistant professor in Department of Zoology at L.V. H. Arts, Science and Commerce College, Panchavati, Nashik, Maharashtra, India.
+
+**January 2019 – December 2020 (No cost Extension)**
 * Post Doctoral Research Associate at University of Florida, Gainesville, FL, USA.
 
-  * Conduct research using molecular biology techniques.
+**February 2017 – December 2018**
+* Post Doctoral Research Associate at University of Florida, Gainesville, FL, USA.
 
+   * Conduct research using molecular biology techniques.
+  *	Brush border membrane vesicle preparation
+  *	Cloning and expression in insect cell lines and in E. coli.
+  * Phage display experiments for screening peptides binding to insect gut.
+  * Analysis of MiSeq data for peptide (insert) identification in the bacteriophage.
+  * analysis of protein protein interaction by using pull down assays.
+  *	Enzyme activity assays.
+  *	Cell culture maintenance and related techniques.
+  *	Light microscopy to confirm binding of labelled proteins to insect gut.
+  *	Protein protein interaction analysis using micro-scale -thermophoresis.
+  *	Protein engineering and expression.
+  *	Reports and manuscript writing.
 
 **October 2016 – January 2016**
 * Post Doctoral Research Associate at Iowa State University, Ames, IA, USA.
 
   * Conduct research using molecular biology techniques.
+  *	Brush border membrane vesicle preparation
+  *	Cloning and expression in insect cell lines and in E. coli.
+  * Phage display experiments for screening peptides binding to insect gut.
+  * Analysis of MiSeq data for peptide (insert) identification in the bacteriophage.
+  * analysis of protein protein interaction by using pull down assays.
+  *	Enzyme activity assays.
+  *	Cell culture maintenance and related techniques.
+  *	Light microscopy to confirm binding of labelled proteins to insect gut.
+  *	Protein protein interaction analysis using micro-scale -thermophoresis.
+  *	Protein engineering and expression.
+  *	Reports and manuscript writing.
+
 
 **January 2010 – June 2016**
 * PhD in Molecular biology, at Max Planck Institute for Chemical Ecology, Jena, Germany.
