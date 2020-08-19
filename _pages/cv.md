@@ -113,7 +113,7 @@ physiology.
    * Biology — Open Access Journal of Biochemistry & Molecular Biology
    * Life — Open Access Journal of Origins and Evolution of Life
 
-[Detailed Curriculum Vitae in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-Resume.pdf)
+[Detailed Curriculum Vitae in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-CV.pdf)
 
 ### Contact me
 
