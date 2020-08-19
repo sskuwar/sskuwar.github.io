@@ -17,4 +17,8 @@ Herbivorous insects have more difficulty obtaining proteins from their food than
 * Larval weight affected more on trypsin specific PIs than chymotrypsin PIs.
 
 
+[Download paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/arch.21647)
+
+
+
 
