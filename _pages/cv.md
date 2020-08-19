@@ -89,6 +89,15 @@ Molecular modeling, Study of protein-protein interactions, Transcriptomics, Geno
 adaptation of insects, Regulation of gene expression in eukaryotes (transcription factors), Insect digestive
 physiology.
 
+# SERVICE AND LEADERSHIP
+### Article reviewer for: Article reviewing for: ###
+   * PLOS ONE
+   *  Archives of Insect Biochemistry & Physiology
+   *   MDPI - Insects
+   *   MDPI - International Journal of Molecular Sciences 
+   *   Biology — Open Access Journal of Biochemistry & Molecular Biology
+   *   Life — Open Access Journal of Origins and Evolution of Life
+
 
 ## PUBLICATIONS
   <ul>{% for post in site.publications %}
@@ -106,15 +115,6 @@ physiology.
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-
-## SERVICE AND LEADERSHIP
-### Article reviewer for: Article reviewing for: ###
-    *   PLOS ONE
-    *   Archives of Insect Biochemistry & Physiology
-    *   MDPI - Insects
-    *   MDPI - International Journal of Molecular Sciences 
-    *   Biology — Open Access Journal of Biochemistry & Molecular Biology
-    *   Life — Open Access Journal of Origins and Evolution of Life
 
 
 [Detailed Curriculum Vitae in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-Resume.pdf)

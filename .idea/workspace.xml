@@ -43,9 +43,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="Teaching experinece added">
-      <change afterPath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume-old.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume.pdf" afterDir="false" />
+    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="publicatio updated">
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597829744752</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="publicatio updated">
+      <created>1597830121971</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1597830121971</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +323,8 @@
     <MESSAGE value="Publication added no 6" />
     <MESSAGE value="Location update in yml file" />
     <MESSAGE value="Teaching experinece added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teaching experinece added" />
+    <MESSAGE value="publicatio updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="publicatio updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597820052070">
@@ -329,10 +336,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1032" y="459" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1597819930051" />
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597829747960">
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597830125521">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597829747960" />
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597830125521" />
     <state x="880" y="458" key="Vcs.Push.Dialog.v2/615.1463.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1597409226450" />
     <state x="1071" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597817520217">
       <screen x="0" y="23" width="2560" height="1417" />
