@@ -6,7 +6,7 @@ excerpt: ''
 date: 2012-02-01
 venue: 'Journal of Molecular Catalysis B: Enzymatic'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1381117711002633'
-citation: 'idya et al., 2012
+citation: 'Vaidya et al., 2012
 B.K. Vaidya, S.S. Kuwar, S.B. Golegaonkar, S.N. Nene (2012). &quot;Preparation of cross-linked enzyme aggregates of l-aminoacylase via co-aggregation with polyethyleneimine &quot; <i>Journal of Molecular Catalysis B: Enzymatic</i>. '
 ---
 **Abstract**
