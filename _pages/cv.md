@@ -92,12 +92,11 @@ physiology.
 ## SERVICE AND LEADERSHIP
 ### Article reviewer for: Article reviewing for: ###
    * PLOS ONE
-   *  Archives of Insect Biochemistry & Physiology
-   *   MDPI - Insects
-   *   MDPI - International Journal of Molecular Sciences 
-   *   Biology — Open Access Journal of Biochemistry & Molecular Biology
-   *   Life — Open Access Journal of Origins and Evolution of Life
-
+   * Archives of Insect Biochemistry & Physiology
+   * MDPI - Insects
+   * MDPI - International Journal of Molecular Sciences 
+   * Biology — Open Access Journal of Biochemistry & Molecular Biology
+   * Life — Open Access Journal of Origins and Evolution of Life
 
 ## PUBLICATIONS
   <ul>{% for post in site.publications %}

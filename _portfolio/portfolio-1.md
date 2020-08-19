@@ -104,6 +104,7 @@ M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
   * Abstract:
   * Chitin is the second number of abundant polysaccharide in the world. To utilize this abundant source of macromolecules it need to be degraded in to its monomer. For the degradation of chitin chitinase from bacillus will be a good candidate to utilize. In this project I have screened the chitinase producing bacilli and use it for production of chitin in flask level and visualize the degradation of chitin in to its monomer using thin layer chromatography and enzyme assay.
 
+
 [Detailed resume in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-Resume-2016-June-13.pdf)
 
 
