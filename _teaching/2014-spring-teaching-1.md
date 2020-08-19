@@ -8,12 +8,17 @@ date: 2019-008-01__2020-04-30
 location: "Nashik, India"
 ---
 
+Click on the title to learn about the details.
+
+
  **Semester 1**
    * M Sc Part 1
 
         * ZOUT 113  &nbsp;   Genetics	   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 Credits
 
         * ZOUT 112  &nbsp;   Biochemical techniques	 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	2 Credits
+        
+        
 **Semester 3**
    * M Sc Part 2 
 
