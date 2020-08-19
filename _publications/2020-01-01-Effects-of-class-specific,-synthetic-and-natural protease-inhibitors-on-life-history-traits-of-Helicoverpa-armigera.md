@@ -18,5 +18,5 @@ Mean larval weight was reduced on PIs‐supplemented diets compare to the contro
 
 Larval weight affected more on trypsin specific PIs than chymotrypsin PIs.
 
-[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/arch.21647#)
+
 
