@@ -43,7 +43,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="Teaching experinece added" />
+    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="Teaching experinece added">
+      <change afterPath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume-old.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +233,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597829548714</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Teaching experinece added">
+      <created>1597829648879</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1597829648879</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Teaching experinece added">
+      <created>1597829684417</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1597829684417</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Teaching experinece added">
+      <created>1597829744752</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1597829744752</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,10 +329,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1032" y="459" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1597819930051" />
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597829549041">
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597829747960">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597829549041" />
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597829747960" />
     <state x="880" y="458" key="Vcs.Push.Dialog.v2/615.1463.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1597409226450" />
     <state x="1071" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597817520217">
       <screen x="0" y="23" width="2560" height="1417" />
