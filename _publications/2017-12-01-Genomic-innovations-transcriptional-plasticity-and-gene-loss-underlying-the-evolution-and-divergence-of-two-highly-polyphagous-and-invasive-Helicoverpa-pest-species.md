@@ -19,4 +19,3 @@ The extreme polyphagy of the two heliothines is associated with extensive amplif
 
 [Download paper here](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0402-6)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

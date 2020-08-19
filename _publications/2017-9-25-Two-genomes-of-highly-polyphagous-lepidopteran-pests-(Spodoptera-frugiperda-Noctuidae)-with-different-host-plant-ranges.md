@@ -13,4 +13,3 @@ Emergence of polyphagous herbivorous insects entails significant adaptation to r
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: A Gouin et al, (2017). "Two genomes of highly polyphagous lepidopteran pests *(Spodoptera frugiperda, Noctuidae)* with different host-plant ranges" <i>Journal 1</i>.

@@ -13,4 +13,3 @@ citation: 'Kanost MR, Arrese EL, Cao X, Chen Y-R, Chellapilla S, Goldsmith MR, e
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0965174816300947)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

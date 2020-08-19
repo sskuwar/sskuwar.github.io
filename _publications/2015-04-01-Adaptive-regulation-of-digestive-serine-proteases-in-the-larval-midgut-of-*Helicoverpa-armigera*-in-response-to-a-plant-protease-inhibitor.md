@@ -13,4 +13,4 @@ Protease inhibitors (PIs) are direct defenses induced by plants in response to h
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0965174815000235)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
