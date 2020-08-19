@@ -8,12 +8,6 @@ date: 2019-008-01__2020-04-30
 location: "Nashik, India"
 ---
 
-
-
-
-
---
-
  ## Semester 1
    * M Sc Part 1
 
