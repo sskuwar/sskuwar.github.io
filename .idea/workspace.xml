@@ -43,7 +43,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="DONT KNOW&#10;&#10;DONT KNOW" />
+    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="config.yml updated for location of work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +52,6 @@
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1g5Ypl2VAfRlVH6MRTp91X5r6ND" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597486326105</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="config.yml updated for location of work">
+      <created>1597817444084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597817444084</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +182,8 @@
     <MESSAGE value="Portfolio Updated" />
     <MESSAGE value="Config.yml updated" />
     <MESSAGE value="DONT KNOW&#10;&#10;DONT KNOW" />
-    <option name="LAST_COMMIT_MESSAGE" value="DONT KNOW&#10;&#10;DONT KNOW" />
+    <MESSAGE value="config.yml updated for location of work" />
+    <option name="LAST_COMMIT_MESSAGE" value="config.yml updated for location of work" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597408540582">
