@@ -1,5 +1,5 @@
 ---
-title: "LVH college Panchavati, Nashik, India"
+title: "LVH college Panchavati, Nashik, India - courses tought"
 collection: Teaching Undergraduate and Postgraduate students
 type: "Undergraduate and Post graduate courses"
 permalink: /teaching/2014-spring-teaching-1
@@ -7,7 +7,7 @@ venue: "Zoology Department, LVH College Panchavati"
 date: 2019-008-01__2020-04-30
 location: "Nashik, India"
 ---
-**Courses tought**
+
 
  ## Semester 1
    * M Sc Part 1
