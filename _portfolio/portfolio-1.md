@@ -3,7 +3,7 @@ title: "About me"
 excerpt: ""
 collection: portfolio
 ---
-<p class="introduction">I work full time as a Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
+<p class="introduction">I work Assistant professor at LVH College Panchavati and a Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
 
 ### Philosophy
 
@@ -18,40 +18,67 @@ collection: portfolio
 <a href="https://www.unipune.ac.in">University of Pune </a>, Pune
 * Master of Science (M.Sc.), Biotechnology, 6.54/10, 2004 - 2009
 
-#### M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
+M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
 * Higher Secondary School, PCBM, 76 %, 2000 - 2002
 
 ### Experience
 
-**February 2017 – Present**
+**August 2019 – April 2020**
+* Assistant professor at L. V. H. Arts, Science and Commerce College, Panchavati, Nashik, Maharashtra, India.
+  * Teaching and research activity.
+
+**January 2019 – December 2020**
+* Post Doctoral Research Associate (No cost Extension) at University of Florida, Gainesville, FL, USA.
+  * Patent and Manuscript writting.
+
+**February 2017 – December 2018**
 * Post Doctoral Research Associate at University of Florida, Gainesville, FL, USA.
 
   * Conduct research using molecular biology techniques.
+  * Brush border membrane vesicle preparation
+  * Cloning and expression in insect cell lines and in E. coli.
+  * Phage display experiments for screening peptides binding to insect gut.
+  * Analysis of MiSeq data for peptide (insert) identification in the bacteriophage.
+  * Analysis of protein protein interaction by using pull down assays.
+  * Enzyme activity assays.
+  * Cell culture maintenance and related techniques.
+  * Light microscopy to confirm binding of labelled proteins to insect gut.
+  * Protein protein interaction analysis using micro-scale -thermophoresis.
+  * Protein engineering and expression.
+  * Reports and manuscript writing.
 
 
 **October 2016 – January 2016**
 * Post Doctoral Research Associate at Iowa State University, Ames, IA, USA.
 
   * Conduct research using molecular biology techniques.
+  * Brush border membrane vesicle preparation
+  * Cloning and expression in insect cell lines and in E. coli.
+  * Phage display experiments for screening peptides binding to insect gut.
+  * Analysis of MiSeq data for peptide (insert) identification in the bacteriophage.
+  * Analysis of protein protein interaction by using pull down assays.
+  * Enzyme activity assays.
+  * Cell culture maintenance and related techniques.
+  * Light microscopy to confirm binding of labelled proteins to insect gut.
+  * Protein protein interaction analysis using micro-scale -thermophoresis.
+  * Protein engineering and expression.
+  * Reports and manuscript writing.
+
 
 **January 2010 – June 2016**
 * PhD in Molecular biology, at Max Planck Institute for Chemical Ecology, Jena, Germany.
 
-  * In total 114, 86 and 77 serine protease sequences were identified in H. armigera, Spodoptera frugiperda and Manduca sexta genomes, respectively.
-  * Serine proteases are highly conserved at their catalytic residues, H57 D102, S195, and N-terminal signature sequence and follow conserved intron-exon structure.
-  * Neonate and 4th instar larvae prefered feeding on PI-free diet compared to PI-supplemented artificial diet.
-  * Trypsin-specific PIs had a stronger effect on larval and pupal weight than other PIs.
-  * Soybean Kunitz trypsin inhibitor(SKTI) temporarily slowed down the larval growth.
-  * Microarray revealed differential regulation of trypsin and chymotrypsin genes in response to SKTI feeding.
-  * Enzyme assays revealed an increase in SKTI-insensitive chymotrypsins.
-  * The larvae showed diet specific gene expression of digestion and detoxification related genes on cotton and soybean leaves.
-  * Gossypol feeding reduced trypsin, chymotrypsin and amylase activity in the midgut of larvae and increased loss of enzymes in frass.
-  * The larvae grew slowly on plant leaves and had lower trypsin, chymotrypsin and amylase activity compared to artificial diet.
-  * I identified SKTI-sensitive and SKTI-insensitive proteases in the midgut of larvae fed on SKTI -supplemented artificial diet using affinity purification.
-  * SKTI feeding negatively affected proteases, amylase and carboxypeptidase enzymes.
-  * No diurnal regulation of protease activity was found in midgut lumen and frass of larvae.
-  * Protease gene expression increased in response to SKTI feeding after 6-9 hours.
-  * In conclusion, this study provides a comprehensive resource of all the digestive proteases from H. armigera, S. frugiperda and M. sexta and adaptive responses studied will help in understanding the underlying mechanisms of adaptation in general.
+  * Gene annotation for cotton bollworm.
+  * Insect rearing and bioassays.
+  * Protein purification.
+  * Transcriptomics using microarray.
+  * qRT-PCR experiments and analysis.
+  * Affinity purification of gut proteins.
+  * Mass spectrometry for identification of proteins.
+  * Enzyme assays for digestive proteases.
+  * Manuscript writing and publication.
+  * Behavioral and diet choice assays with insect larvae.
+  * Homology modeling for proteases enzymes.
 
 **April 2009 – December 2009**
 * M. Tech. project student at Indian Institute of Science Education and Research (IISER), Pune, Maharashtra, India.
