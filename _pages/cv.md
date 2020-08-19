@@ -112,7 +112,7 @@ physiology.
 ## TEACHING
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul> 
 
 
 
