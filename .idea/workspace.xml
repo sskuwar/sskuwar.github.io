@@ -43,11 +43,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="Publication added">
-      <change beforePath="$PROJECT_DIR$/_publications/2012-02-01-Preparation-of-cross-linked-enzyme-aggregates-of-l-aminoacylase-via-co-aggregation-with-polyethyleneimine.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2012-02-01-Preparation-of-cross-linked-enzyme-aggregates-of-l-aminoacylase-via-co-aggregation-with-polyethyleneimine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2015-04-01-Adaptive-regulation-of-digestive-serine-proteases-in-the-larval-midgut-of-*Helicoverpa-armigera*-in-response-to-a-plant-protease-inhibitor.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2015-04-01-Adaptive-regulation-of-digestive-serine-proteases-in-the-larval-midgut-of-*Helicoverpa-armigera*-in-response-to-a-plant-protease-inhibitor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2016-09-01-Multifaceted-biological-insights-from-a-draft-genome-sequence-of-the-tobacco-hornworm-moth-Manduca-sexta.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2016-09-01-Multifaceted-biological-insights-from-a-draft-genome-sequence-of-the-tobacco-hornworm-moth-Manduca-sexta.md" afterDir="false" />
-    </list>
+    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="Publication updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597824703360</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Publication updated">
+      <created>1597824897882</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1597824897882</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +250,8 @@
     <MESSAGE value="cv.md changed" />
     <MESSAGE value="Portfolio1 . md file changed" />
     <MESSAGE value="Publication added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Publication added" />
+    <MESSAGE value="Publication updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Publication updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597820052070">
@@ -259,10 +263,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1032" y="459" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1597819930051" />
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597824708977">
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597825118335">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597824708977" />
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597825118335" />
     <state x="880" y="458" key="Vcs.Push.Dialog.v2/615.1463.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1597409226450" />
     <state x="1071" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597817520217">
       <screen x="0" y="23" width="2560" height="1417" />
