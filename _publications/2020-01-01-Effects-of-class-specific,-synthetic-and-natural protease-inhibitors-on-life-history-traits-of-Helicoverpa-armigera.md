@@ -1,7 +1,7 @@
 ---
 title: "Effects of class-specific, synthetic and natural protease inhibitors on life history traits of Helicoverpa armigera."
 collection: publications
-permalink: /publication/2020-01-01-Effects-of-class-specific,-synthetic-and-natural protease-inhibitors-on-life-history-traits-of-Helicoverpa-armigera
+permalink: /publication/2020-01-01-Effects-of-class-specific
 excerpt: ''
 date: '2020-01-01'
 venue: 'Archieves of Insect Biochemistry and Physiology'
