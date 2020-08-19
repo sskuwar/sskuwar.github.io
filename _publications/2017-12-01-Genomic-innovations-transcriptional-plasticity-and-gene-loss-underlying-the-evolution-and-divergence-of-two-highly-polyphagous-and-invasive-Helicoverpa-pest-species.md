@@ -6,7 +6,7 @@ excerpt: ''
 date: 2017-12-01
 venue: 'BMC Biology'
 paperurl: 'https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0402-6'
-citation: 'S.L. Pearce, D.F. Clarke, P.D. East, S. Elfekih, K.H.J. Gordon, L.S. Jermiin, A. McGaughran, J.G. Oakeshott, A. Papanikolaou, O.P. Perera, et al.(2017) &quot;Genomic innovations, transcriptional plasticity and gene loss underlying the evolution and divergence of two highly polyphagous and invasive Helicoverpa pest species &quot; <i>BMC Biology, </i>'
+citation: 'S.L. Pearce, D.F. Clarke, P.D. East, S. Elfekih, K.H.J. Gordon, L.S. Jermiin, A. McGaughran, J.G. Oakeshott, A. Papanikolaou, O.P. Perera, et al.(2017) &quot;Genomic innovations, transcriptional plasticity and gene loss underlying the evolution and divergence of two highly polyphagous and invasive Helicoverpa pest species &quot; <i>BMC Biology </i>'
 ---
 **Background**
 Helicoverpa armigera* and *Helicoverpa zea* are major caterpillar pests of Old and New World agriculture, respectively. Both, particularly H. armigera, are extremely polyphagous, and H. armigera has developed resistance to many insecticides. Here we use comparative genomics, transcriptomics and resequencing to elucidate the genetic basis for their properties as pests.
