@@ -321,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597832454641</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="publication update">
+      <created>1597833007864</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1597833007864</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,10 +408,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1032" y="459" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1597819930051" />
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597832461426">
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597833012508">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597832461426" />
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597833012508" />
     <state x="880" y="458" key="Vcs.Push.Dialog.v2/615.1463.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1597409226450" />
     <state x="1071" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597817520217">
       <screen x="0" y="23" width="2560" height="1417" />
