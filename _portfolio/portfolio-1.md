@@ -3,7 +3,7 @@ title: "About me"
 excerpt: ""
 collection: portfolio
 ---
-<p class="introduction">I work Assistant professor at LVH College Panchavati and a Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
+<p class="introduction">I work as a Assistant professor at LVH College Panchavati and a Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
 
 ### Philosophy
 
@@ -105,7 +105,7 @@ M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
   * Chitin is the second number of abundant polysaccharide in the world. To utilize this abundant source of macromolecules it need to be degraded in to its monomer. For the degradation of chitin chitinase from bacillus will be a good candidate to utilize. In this project I have screened the chitinase producing bacilli and use it for production of chitin in flask level and visualize the degradation of chitin in to its monomer using thin layer chromatography and enzyme assay.
 
 
-[Detailed resume in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-Resume-2016-June-13.pdf)
+[Detailed CV in PDF format.](http://sskuwar.github.io/files/Suyog-Kuwar-CV.pdf)
 
 
 
