@@ -43,7 +43,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="manuscript added" />
+    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="manuscript added">
+      <change beforePath="$PROJECT_DIR$/_publications/2020-01-01-Effects-of-class-specific,-synthetic-and-natural protease-inhibitors-on-life-history-traits-of-Helicoverpa-armigera.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2020-01-01-Effects-of-class-specific,-synthetic-and-natural protease-inhibitors-on-life-history-traits-of-Helicoverpa-armigera.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -391,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597838134692</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="manuscript added">
+      <created>1597838280138</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1597838280138</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,10 +482,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1032" y="459" key="RollbackChangesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1597819930051" />
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597838139310">
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2" timestamp="1597838301248">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597838139310" />
+    <state x="880" y="458" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1597838301248" />
     <state x="880" y="458" key="Vcs.Push.Dialog.v2/615.1463.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1597409226450" />
     <state x="1071" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597817520217">
       <screen x="0" y="23" width="2560" height="1417" />
