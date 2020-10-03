@@ -41,8 +41,6 @@ redirect_from:
 * Maharashtra State Eligibility Test (MH-SET) for Assistant Professor Qualified (2019, First Attempt)
 
 ## EXPERIENCE
-### August 2019 – April 2020  ###
-* Assistant professor at L. V. H. Arts, Science and Commerce College, Panchavati, Nashik, Maharashtra, India.
 
 ### January 2019 – December 2020 (No cost Extension) ###
 * Post Doctoral Research Associate at University of Florida, Gainesville, FL, USA.

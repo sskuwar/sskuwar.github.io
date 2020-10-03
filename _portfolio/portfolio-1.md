@@ -23,10 +23,6 @@ M. S. G. College Malegaon, Dist-nasik, Maharashtra, India
 
 ### Experience
 
-**August 2019 – April 2020**
-* Assistant professor at L. V. H. Arts, Science and Commerce College, Panchavati, Nashik, Maharashtra, India.
-  * Teaching and research activity.
-
 **January 2019 – December 2020**
 * Post Doctoral Research Associate (No cost Extension) at University of Florida, Gainesville, FL, USA.
   * Patent and Manuscript writting.
