@@ -43,12 +43,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="Teaching experinece removed! and all the information is updated with reference to that.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_teaching/2014-spring-teaching-1.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Suyog-Kuwar-Resume.pdf" afterDir="false" />
+=======
+    <list default="true" id="bd7fabe9-ff57-4516-84a2-ec7d16b40805" name="Default Changelist" comment="manuscript 6 added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Suyog-Kuwar-CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Suyog-Kuwar-CV.pdf" afterDir="false" />
+>>>>>>> 891532548673eb08aa981a5b6021c37b4fe95228
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +105,23 @@
       <option name="presentableId" value="Default" />
       <updated>1597406106667</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00005" summary="Config.yml updated">
+      <created>1597409214257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597409214257</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DONT KNOW&#10;&#10;DONT KNOW">
+      <created>1597486326105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597486326105</updated>
+    </task>
+>>>>>>> 891532548673eb08aa981a5b6021c37b4fe95228
     <task id="LOCAL-00007" summary="config.yml updated for location of work">
       <created>1597817444084</created>
       <option name="number" value="00007" />
@@ -425,6 +451,7 @@
       <option name="project" value="LOCAL" />
       <updated>1597841421035</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00054" summary="Teaching experinece removed! and all the information is updated with reference to that.">
       <created>1601699805040</created>
       <option name="number" value="00054" />
@@ -440,6 +467,9 @@
       <updated>1601699810639</updated>
     </task>
     <option name="localTasksCounter" value="56" />
+=======
+    <option name="localTasksCounter" value="54" />
+>>>>>>> 891532548673eb08aa981a5b6021c37b4fe95228
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,6 +516,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+<<<<<<< HEAD
+=======
+    <MESSAGE value="Publications added" />
+>>>>>>> 891532548673eb08aa981a5b6021c37b4fe95228
     <MESSAGE value="Experience Updated on the CV Page" />
     <MESSAGE value="Portfolio Updated" />
     <MESSAGE value="Config.yml updated" />
@@ -510,8 +544,12 @@
     <MESSAGE value="cv added" />
     <MESSAGE value="Teaching updated" />
     <MESSAGE value="manuscript 6 added" />
+<<<<<<< HEAD
     <MESSAGE value="Teaching experinece removed! and all the information is updated with reference to that." />
     <option name="LAST_COMMIT_MESSAGE" value="Teaching experinece removed! and all the information is updated with reference to that." />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="manuscript 6 added" />
+>>>>>>> 891532548673eb08aa981a5b6021c37b4fe95228
   </component>
   <component name="WindowStateProjectService">
     <state x="369" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601699985416">
