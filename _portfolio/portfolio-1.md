@@ -3,7 +3,7 @@ title: "About me"
 excerpt: ""
 collection: portfolio
 ---
-<p class="introduction">I work as a Assistant professor at LVH College Panchavati and a Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
+<p class="introduction">I work as Post Doctoral Research Associate at Department of Entomology and Nematology <a href="http://entnemdept.ufl.edu">University of Florida</a> .</p>
 
 ### Philosophy
 
